@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './App.css';
 import Contact from './Components/Contact/Contact';
-import Hero from './Components/Hero/Hero';
 import Hero2 from './Components/Hero2/Hero2';
 import Menu from './Components/Menu/Menu';
 import MyVerticallyCenteredModal from './Components/MyVerticallyCenteredModal/MyVerticallyCenteredModal';

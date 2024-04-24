@@ -3,7 +3,6 @@ import './Contact.css'
 import facebook from '../Assets/facebook.png'
 import instagram from '../Assets/instagram.png'
 import google from '../Assets/google.png'
-import x from '../Assets/x.png'
 const Contact = () => {
   return (
     <div  className='content'>
